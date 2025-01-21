@@ -123,4 +123,5 @@ NFS는 가상 파일 시스템(VFS)을 통하여 운영체제로 통합됨
 
 ## 참고 자료
 [아주 쉽게 이해하는 Stateful / Stateless 차이](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-Stateful-Stateless-%EC%A0%95%EB%A6%AC)
+
 [Linux NFS 구축하며 개념, 구조, 동작원리까지 모두 알아보기](https://onecoin-life.com/87)
