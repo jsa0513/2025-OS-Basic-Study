@@ -5,7 +5,8 @@
 
 
 ### Stateful vs Stateless
-stateful
+Stateful
+
 서버가 클라이언트의 상태 보존
 > 로그인 유지
 >
