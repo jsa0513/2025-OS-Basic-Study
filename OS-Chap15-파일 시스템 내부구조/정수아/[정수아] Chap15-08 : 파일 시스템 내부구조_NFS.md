@@ -24,9 +24,13 @@ LAN(또는 WAN)을 거쳐 원격 파일에 접근하기 위한 소프트웨어 �
 ![image](https://github.com/user-attachments/assets/a65dfd48-e247-47c0-91b9-a1b2786c1397)
 
 * (a) 마운트 / (b) 연속 마운트
+
 **그림 (a)**
+
 U:/usr/local에 S1:/usr/shared 마운트
+
 **그림 (b)**
+
 그림 (a)에서 연속 마운트
 
 U:/usr/local/dir1에 S2:/usr/dir2 마운트
